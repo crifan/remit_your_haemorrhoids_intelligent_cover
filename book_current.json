@@ -1,0 +1,19 @@
+{
+  "title": "缓解你的痔疮：智能马桶盖",
+  "description": "介绍可以缓解你的痔疮和便秘的智能马桶盖。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "remit_your_haemorrhoids_intelligent_cover"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/remit_your_haemorrhoids_intelligent_cover/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/remit_your_haemorrhoids_intelligent_cover/pdf/remit_your_haemorrhoids_intelligent_cover.pdf"
+    }
+  }
+}
